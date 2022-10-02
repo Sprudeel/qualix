@@ -487,7 +487,6 @@ return array(
 			"edit_success" => "Beobachtung aktualisiert.",
 			"new" => "Beobachtung erfassen",
 			"char_limit" => "Zeichen genutzt:",
-
 		),
 		"overview" => array(
 			"here" => "hier",
@@ -579,6 +578,6 @@ return array(
 			"admin_observationAssignments" => "Qualix - Admin - Beobachtungsaufträge",
 			"admin_feedbacks" => "Qualix - Admin - Rückmeldungen",
 			"feedbacks" => "Qualix - Rückmeldungen",
-		)
+		),
 	),
 );
